@@ -1,0 +1,28 @@
+go 1.21.6
+
+use (
+	./01hello
+	./02variables
+	./03userinput
+	./04convertion
+	./05mytime
+	./06mypointers
+	./07myarray
+	./08myslice
+	./09mymaps
+	./10mystructs
+	./11ifelse
+	./12switchcases
+	./13loops
+	./14function
+	./15methods
+	./16defer
+	./17files
+	./18webreq
+	./26goroutines
+	./27mutexAndWaitGroups
+	./template
+	./channels
+	./select
+	./rune
+)
